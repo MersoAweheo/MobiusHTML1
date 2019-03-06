@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Titlescreen","order":1,"parentId":0,"scrollX":819,"scrollY":445.5},
-{"id":2,"expanded":false,"name":"ROUTE A - CLONES","order":2,"parentId":0,"scrollX":819,"scrollY":445.5},
+{"id":2,"expanded":true,"name":"ROUTE A - CLONES","order":2,"parentId":0,"scrollX":819,"scrollY":445.5},
 {"id":3,"expanded":false,"name":"ROUTE B - AGE","order":9,"parentId":0,"scrollX":819,"scrollY":445.5},
 {"id":4,"expanded":false,"name":"ROUTE C - DIGITAL","order":17,"parentId":0,"scrollX":819,"scrollY":445.5},
 {"id":5,"expanded":false,"name":"Cutscene 1","order":3,"parentId":2,"scrollX":819,"scrollY":445.5},
